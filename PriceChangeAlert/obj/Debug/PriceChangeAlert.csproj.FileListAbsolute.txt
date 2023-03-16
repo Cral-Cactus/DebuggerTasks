@@ -1,0 +1,8 @@
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe.config
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\bin\Debug\PriceChangeAlert.pdb
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.AssemblyReference.cache
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.CoreCompileInputs.cache
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\obj\Debug\PriceChangeAlert.exe
+D:\aaa\testt\DebuggerTasks\PriceChangeAlert\obj\Debug\PriceChangeAlert.pdb

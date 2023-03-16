@@ -1,0 +1,8 @@
+D:\aaa\testt\DebuggerTasks\HolidayDays\bin\Debug\HolidayDays.exe.config
+D:\aaa\testt\DebuggerTasks\HolidayDays\bin\Debug\HolidayDays.exe
+D:\aaa\testt\DebuggerTasks\HolidayDays\bin\Debug\HolidayDays.pdb
+D:\aaa\testt\DebuggerTasks\HolidayDays\obj\Debug\HolidayDays.csproj.AssemblyReference.cache
+D:\aaa\testt\DebuggerTasks\HolidayDays\obj\Debug\HolidayDays.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\DebuggerTasks\HolidayDays\obj\Debug\HolidayDays.csproj.CoreCompileInputs.cache
+D:\aaa\testt\DebuggerTasks\HolidayDays\obj\Debug\HolidayDays.exe
+D:\aaa\testt\DebuggerTasks\HolidayDays\obj\Debug\HolidayDays.pdb

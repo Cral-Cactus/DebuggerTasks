@@ -1,0 +1,8 @@
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\bin\Debug\MultiplyEvenByOdd.exe.config
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\bin\Debug\MultiplyEvenByOdd.exe
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\bin\Debug\MultiplyEvenByOdd.pdb
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\obj\Debug\MultiplyEvenByOdd.csproj.AssemblyReference.cache
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\obj\Debug\MultiplyEvenByOdd.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\obj\Debug\MultiplyEvenByOdd.csproj.CoreCompileInputs.cache
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\obj\Debug\MultiplyEvenByOdd.exe
+D:\aaa\testt\DebuggerTasks\MultiplyEvenByOdd\obj\Debug\MultiplyEvenByOdd.pdb
